@@ -4,12 +4,18 @@ This is a small project created to learn React Native and demonstrate my mobile 
 ## Usage
 [Create React Native App](https://github.com/react-community/create-react-native-app) was used to develop and test this app. In order to run this React Native app, you will first need to install Expo on your iOS or Android device.
 - Assuming that you have Node installed, you can use yarn to install the create-react-native-app command line utility:
-```$ yarn global add create-react-native-app```
+```sh
+$ yarn global add create-react-native-app
+```
 - Then run the following commands to create a new React Native project called "themoviedb-test":
-```$ create-react-native-app themoviedb-test```
-```$ cd themoviedb-test```
+```sh
+$ create-react-native-app themoviedb-test
+$ cd themoviedb-test
+```
 - Next copy all files from this repo into the 'themoviedb-test' directory. Overwrite any existing files. Then run the following command:
-```$ yarn start```
+```sh
+$ yarn start
+```
 - Ensure your mobile device is connected to the same wireless network as your computer. Using the Expo app, scan the QR code from your terminal to open your project.
 
 ## Objective
