@@ -12,8 +12,9 @@ $ yarn global add create-react-native-app
 $ create-react-native-app themoviedb-test
 $ cd themoviedb-test
 ```
-- Next copy all files from this repo into the 'themoviedb-test' directory. Overwrite any existing files. Then run the following command:
+- Next copy all files from this repo into the 'themoviedb-test' directory. Overwrite any existing files. Then run the following commands:
 ```sh
+$ yarn add react-navigation
 $ yarn start
 ```
 - Ensure your mobile device is connected to the same wireless network as your computer. Using the Expo app, scan the QR code from your terminal to open your project.
