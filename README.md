@@ -12,7 +12,7 @@ $ yarn global add create-react-native-app
 $ create-react-native-app themoviedb-test
 $ cd themoviedb-test
 ```
-- Next copy all files from this repo into the 'themoviedb-test' directory. Overwrite any existing files. Then run the following commands:
+- Next, copy all files from this repo into the 'themoviedb-test' directory, overwriting any existing files. Then run the following commands:
 ```sh
 $ yarn add react-navigation
 $ yarn start
